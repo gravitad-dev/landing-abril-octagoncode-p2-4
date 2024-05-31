@@ -32,13 +32,13 @@
         }
       ],
       
-      "logo": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714160002/Captura_de_pantalla_2024-04-26_a_la_s_16.31.27_frclwt.png",
+      "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1717165648/s2plqmmfmq6rfajlfh0c.png",
       "alt": "Landing logo",
-      "text_logo": "DOLM"
+      "text_logo": ""
     },
     "one": {
-      "title": "AI MARKETING OPTIMIZED REACH",
-      "subtitule": "Our vision is to revolutionize the way brands and advertisers target, reach",
+      "title": "Empowering E-Commerce with AI Excellence",
+      "subtitule": "We are a dynamic team of tech enthusiasts, AI specialists, and E-Commerce experts dedicated to transforming the digital shopping experience.",
       "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714161693/image_3_ouh7xv.png",
       "alt": "one section image"
     },
@@ -148,19 +148,19 @@
       "band_text2": ""
     },
     "five": {
-      "title": "AI MARKETING OPTIMIZED REACH",
-      "subtitle": "DOML is a digital media agency powered by AI technology providing real time, data-driven insights on your business and audience. The mission of DOML is to create the best experiences for companies through intelligence insights, powerful analytics and strategic execution.",
+      "title": "Our mission is to revolutionize the E-Commerce landscape by harnessing the power of artificial intelligence.",
+      "subtitle": "We aim to provide innovative and tailored AI solutions that drive growth, enhance customer engagement, and optimize operations for E-Commerce businesses of all sizes.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714398248/1_1_wzx8no.png",
       "alt1": ""
     },
     "six": {
-      "title": "I MARKETING OPTIMIZED REACH",
-      "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
+      "title": "Our vision is to be the leading force in AI-driven E-Commerce innovation.",
+      "subtitule": "We strive to set new standards in the industry, continuously pushing the boundaries of technology to create smarter, more efficient, and customer-centric online shopping experiences.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714420126/18_1_dt8muy.png",
       "alt1": ""
     },
     "seven": {
-      "title": "",
+      "title": "Data Analytics",
       "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
       "subtitule1": "AMAKA MICHAEL",
       "subtitule2": "Media Executive, Buying & Control",
@@ -168,20 +168,20 @@
       "alt1": ""
     },
     "eight": {
-      "title": "AI MARKETING OPTIMIZED REACH",
-      "subtitule": "DOML is a digital media agency powered by AI technolog providing real time, data-driven insights on your business and audience.The mission of DOML is to create the best experiences for companies through intelligent insights, powerful analytics and strategic execution.",
+      "title": "AI Integration",
+      "subtitule": "Seamlessly embed AI technologies into your E-Commerce platform to enhance functionality and performance.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714422956/50_1_z9dpwa.png",
       "alt1": ""
     },
     "nine": {
-      "title": "AI MARKETING OPTIMIZED REACH",
-      "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
+      "title": "Customer Insights",
+      "subtitule": "Utilize AI to gain deep insights into customer behavior, preferences, and trends.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714484900/22_msepkw.png",
       "alt1": ""
     },
     "ten": {
-      "title": "Get exponential reach vía AI Marketing",
-      "subtitule": "",
+      "title": "Personalized Shopping",
+      "subtitule": "Deliver personalized product recommendations and experiences to boost customer satisfaction and loyalty.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
       "alt1": ""
     },
@@ -272,8 +272,8 @@
       ]
       },
       "twelve": {
-        "title": "Proyects",
-        "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
+        "title": "Chatbots and Virtual Assistants",
+        "subtitule": "Implement intelligent chatbots to provide real-time customer support and improve engagement.",
         "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
         "alt1": ""
       },
@@ -281,7 +281,7 @@
     "footer": {
       "alt": "Landing logo",
       "text_logo": "",
-      "paragraph": "Copyright 2022 DOML. All rights Reserved.",
+      "paragraph": "Copyright 2022. All rights Reserved.",
       "links": {
         "Company": {
           "name": "",
