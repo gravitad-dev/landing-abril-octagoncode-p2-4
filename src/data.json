@@ -11,8 +11,8 @@
           "link": "/#team"
         },
         {
-          "name": "Enterprise",
-          "link": "/#enterprise"
+          "name": "Blog",
+          "link": "https://blog.octagoncode.com"
         },
         {
           "name": "Explore",
@@ -31,7 +31,6 @@
           "link": "/#contact"
         }
       ],
-      
       "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1717165648/s2plqmmfmq6rfajlfh0c.png",
       "alt": "Landing logo",
       "text_logo": ""
@@ -59,7 +58,6 @@
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714396588/uba_logo_iq7rno.jpg",
           "alt": ""
         },
-
         {
           "id": 4,
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714402049/WkUu90k3ghIWMFMpfoNO3z8Zz5r1700547823383_200x200_dw1ctt.png",
@@ -130,8 +128,6 @@
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
           "alt": ""
         }
-        
-        
       ]
     },
     "four": {
@@ -268,16 +264,14 @@
           "url": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714411414/paypal-vector-logo-200x200_zeyev5.webp",
           "alt": ""
         }
-       
       ]
-      },
-      "twelve": {
-        "title": "Chatbots and Virtual Assistants",
-        "subtitule": "Implement intelligent chatbots to provide real-time customer support and improve engagement.",
-        "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
-        "alt1": ""
-      },
-    
+    },
+    "twelve": {
+      "title": "Chatbots and Virtual Assistants",
+      "subtitule": "Implement intelligent chatbots to provide real-time customer support and improve engagement.",
+      "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
+      "alt1": ""
+    },
     "footer": {
       "alt": "Landing logo",
       "text_logo": "",
