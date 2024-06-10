@@ -281,7 +281,10 @@
     "footer": {
       "alt": "Landing logo",
       "text_logo": "",
-      "paragraph": "Copyright 2022. All rights Reserved.",
+      "paragraph": "Copyright 2024. All rights Reserved.",
+      "adress": "PLAÇA DE CAN SURIS S/N 08940 CORNELLÁ DE LLOBREGAT BARCELONA",
+      "adress2": "Rúa Ricardo Santos 2 36960 SANXENXO PONTEVEDRA",
+      "office": "CANARIAS",
       "links": {
         "Company": {
           "name": "",

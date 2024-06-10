@@ -21,6 +21,13 @@ function Footer() {
             </div> */}
           </a>
           <p className="text-base">{data.sections.footer.paragraph}</p>
+          <div className="flex">
+            <p className="text-base">{data.sections.footer.adress}</p>
+            <span className="border mx-4"></span>
+            <p className="text-base">{data.sections.footer.adress2}</p>
+          </div>
+          <p className="text-base">{data.sections.footer.office}</p>
+
           {/* <div className="flex items-center gap-4 sm:mb-24">
             <img
               height={32}
