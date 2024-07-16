@@ -58,13 +58,13 @@ function Navbar() {
 
               <button className="bg-white text-black py-2 px-4 rounded whitespace-nowrap">
                 <p className="font-bold text-[14px] md:text-[px] lg:text-[18px]">
-                  Sign in
+                  Ingresa
                   {data.sections.header.userSignUp}
                 </p>
               </button>
               <button className="bg-white text-black py-2 px-4 rounded border border-black whitespace-nowrap">
                 <p className="font-bold text-[14px] md:text-[16px] lg:text-[18px]">
-                  Sign up
+                  Registrate
                   {data.sections.header.userSignUp}
                 </p>
               </button>

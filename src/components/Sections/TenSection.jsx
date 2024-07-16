@@ -20,17 +20,17 @@ function TenSection() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.twelve.subtitule}</p>
+          <p className="text-black text-xs mt-7">
+            {data.sections.twelve.subtitule}
+          </p>
           <div>
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        
-        <a href="mailto:correo@example.com">Get in touch</a>
-      </button>
-      <div className="text-xl mt-7 text-center">
-      <p></p>
-      
-    </div>
-         </div>
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
+              <a href="mailto:correo@example.com">Contáctanos</a>
+            </button>
+            <div className="text-xl mt-7 text-center">
+              <p></p>
+            </div>
+          </div>
           <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
             src={data.sections.twelve.image3}
@@ -41,7 +41,10 @@ function TenSection() {
           />
         </div>
         <div className="hidden sm:block">
-          <img src={data.sections.twelve.image3} alt={data.sections.twelve.alt1} />
+          <img
+            src={data.sections.twelve.image3}
+            alt={data.sections.twelve.alt1}
+          />
         </div>
       </div>
     </div>
@@ -49,4 +52,3 @@ function TenSection() {
 }
 
 export default TenSection;
-          

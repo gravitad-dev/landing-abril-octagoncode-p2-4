@@ -20,15 +20,17 @@ function EightSection() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.ten.subtitule}</p>
+          <p className="text-black text-xs mt-7">
+            {data.sections.ten.subtitule}
+          </p>
           <div>
-          {/* <div>
+            {/* <div>
           <input type="text" className="text-white bg-black rounded-md text-xl" placeholder="Enter your work email" />
          </div> */}
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        Get in touch
-      </button>
-         </div>
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
+              Contáctanos
+            </button>
+          </div>
           <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
             src={data.sections.ten.image3}
@@ -47,4 +49,3 @@ function EightSection() {
 }
 
 export default EightSection;
-          

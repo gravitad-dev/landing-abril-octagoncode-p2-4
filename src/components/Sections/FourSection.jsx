@@ -20,14 +20,16 @@ function FourSection() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.six.subtitule}</p>
-         
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs justify-end">
-        Learn More
-      </button>
-         
-          <h2 className="text-[#080808] sm:mb-60"></h2> 
-          
+          <p className="text-black text-xs mt-7">
+            {data.sections.six.subtitule}
+          </p>
+
+          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs justify-end">
+            Conoce más
+          </button>
+
+          <h2 className="text-[#080808] sm:mb-60"></h2>
+
           <img
             src={data.sections.six.image1}
             alt={data.sections.six.alt1}
@@ -38,11 +40,10 @@ function FourSection() {
         </div>
         <div className="hidden sm:block mt-0">
           <img src={data.sections.six.image1} alt={data.sections.six.alt1} />
-        </div> 
+        </div>
       </div>
     </div>
   );
 }
 
 export default FourSection;
-          

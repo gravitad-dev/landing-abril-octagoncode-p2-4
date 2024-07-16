@@ -20,12 +20,14 @@ function Hero() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xl mt-7">{data.sections.one.subtitule}</p>
+          <p className="text-black text-xl mt-7">
+            {data.sections.one.subtitule}
+          </p>
           <div>
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        Get Started
-      </button>
-         </div>
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
+              Empezar
+            </button>
+          </div>
           <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
             src={data.sections.one.image}
@@ -44,12 +46,9 @@ function Hero() {
 }
 
 export default Hero;
-          
 
-
-
-
-          {/* <div className="flex flex-col sm:flex-row border-s-[#DDDDDD]">
+{
+  /* <div className="flex flex-col sm:flex-row border-s-[#DDDDDD]">
             {Object.entries(data.sections.two.filtersbar).map(
               ([filterTitle, options]) => (
                 <select
@@ -65,7 +64,11 @@ export default Hero;
               )
             )}
             {/* <button className="bg-primary sm:ml-4 mt-2 sm:mt-0 w-full sm:w-1/5 py-3 text-white">
-              {data.sections.two.button} */}
-            {/* </button> */}
-          {/* </div> */} 
-    
+              {data.sections.two.button} */
+}
+{
+  /* </button> */
+}
+{
+  /* </div> */
+}

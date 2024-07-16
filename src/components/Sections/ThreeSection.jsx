@@ -5,7 +5,7 @@ function ThreeSection() {
   const words = data.sections.five.title.split(" ");
 
   return (
-    <div id= "explore" className="relative">
+    <div id="explore" className="relative">
       <div className="grid sm:grid-cols-2 gap-2 mt-20">
         <div className="flex flex-col justify-center items-start text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold">
           <h2 style={{ lineHeight: "1.2" }}>
@@ -20,12 +20,10 @@ function ThreeSection() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.five.subtitle}</p>
-          <div>
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        Learn More
-      </button>
-         </div>
+          <p className="text-black text-xs mt-7">
+            {data.sections.five.subtitle}
+          </p>
+
           <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
             src={data.sections.five.image1}
@@ -44,4 +42,3 @@ function ThreeSection() {
 }
 
 export default ThreeSection;
-          

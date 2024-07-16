@@ -20,12 +20,14 @@ function SixSection() {
               </span>
             ))}
           </h2>
-          <p className="text-black text-xs mt-7">{data.sections.eight.subtitule}</p>
+          <p className="text-black text-xs mt-7">
+            {data.sections.eight.subtitule}
+          </p>
           <div>
-      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
-        Learn More
-      </button>
-         </div>
+            <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs">
+              Conoce más
+            </button>
+          </div>
           <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
             src={data.sections.eight.image1}
@@ -36,7 +38,10 @@ function SixSection() {
           />
         </div>
         <div className="hidden sm:block">
-          <img src={data.sections.eight.image1} alt={data.sections.eight.alt1} />
+          <img
+            src={data.sections.eight.image1}
+            alt={data.sections.eight.alt1}
+          />
         </div>
       </div>
     </div>
@@ -44,4 +49,3 @@ function SixSection() {
 }
 
 export default SixSection;
-          

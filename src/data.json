@@ -3,11 +3,11 @@
     "header": {
       "navbar": [
         {
-          "name": "Product",
+          "name": "Producto",
           "link": "/#product"
         },
         {
-          "name": "Team",
+          "name": "Equipo",
           "link": "/#team"
         },
         {
@@ -15,19 +15,19 @@
           "link": "https://blog.octagoncode.com"
         },
         {
-          "name": "Explore",
+          "name": "Explora",
           "link": "/#explore"
         },
         {
-          "name": "Marketplace",
+          "name": "Plaza",
           "link": "/#marketplace"
         },
         {
-          "name": "Pricing",
+          "name": "Precio",
           "link": "/#pricing"
         },
         {
-          "name": "Contact",
+          "name": "Contacto",
           "link": "/#contact"
         }
       ],
@@ -36,8 +36,8 @@
       "text_logo": ""
     },
     "one": {
-      "title": "Empowering E-Commerce with AI Excellence",
-      "subtitule": "We are a dynamic team of tech enthusiasts, AI specialists, and E-Commerce experts dedicated to transforming the digital shopping experience.",
+      "title": "Potenciando el comercio electrónico con la excelencia de la IA",
+      "subtitule": "Somos un equipo dinámico de entusiastas de la tecnología, especialistas en inteligencia artificial y expertos en comercio electrónico dedicados a transformar la experiencia de compra digital.",
       "image": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714161693/image_3_ouh7xv.png",
       "alt": "one section image"
     },
@@ -46,7 +46,7 @@
       "image1": {}
     },
     "three": {
-      "title": "Trusted by the world's most ambitious teams.",
+      "title": "Con la confianza de los equipos más ambiciosos del mundo.",
       "photos": [
         {
           "id": 1,
@@ -144,19 +144,19 @@
       "band_text2": ""
     },
     "five": {
-      "title": "Our mission is to revolutionize the E-Commerce landscape by harnessing the power of artificial intelligence.",
-      "subtitle": "We aim to provide innovative and tailored AI solutions that drive growth, enhance customer engagement, and optimize operations for E-Commerce businesses of all sizes.",
+      "title": "Nuestra misión es revolucionar el panorama del comercio electrónico aprovechando el poder de la inteligencia artificial.",
+      "subtitle": "Nuestro objetivo es proporcionar soluciones de IA innovadoras y personalizadas que impulsen el crecimiento, mejoren la participación del cliente y optimicen las operaciones para empresas de comercio electrónico de todos los tamaños.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714398248/1_1_wzx8no.png",
       "alt1": ""
     },
     "six": {
-      "title": "Our vision is to be the leading force in AI-driven E-Commerce innovation.",
-      "subtitule": "We strive to set new standards in the industry, continuously pushing the boundaries of technology to create smarter, more efficient, and customer-centric online shopping experiences.",
+      "title": "Nuestra visión es ser la fuerza líder en innovación del comercio electrónico impulsada por la IA. ",
+      "subtitule": "Nos esforzamos por establecer nuevos estándares en la industria, superando continuamente los límites de la tecnología para crear experiencias de compra en línea más inteligentes, más eficientes y centradas en el cliente.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714420126/18_1_dt8muy.png",
       "alt1": ""
     },
     "seven": {
-      "title": "Data Analytics",
+      "title": "Análisis de datos",
       "subtitule": "It's all about getting your message in front of the right audience and creating those valuable relationships.Lear More about how DOML can help you do just that-all with a simple, easy-to-use platform.",
       "subtitule1": "AMAKA MICHAEL",
       "subtitule2": "Media Executive, Buying & Control",
@@ -164,25 +164,25 @@
       "alt1": ""
     },
     "eight": {
-      "title": "AI Integration",
-      "subtitule": "Seamlessly embed AI technologies into your E-Commerce platform to enhance functionality and performance.",
+      "title": "Integración de IA",
+      "subtitule": "integre perfectamente tecnologías de IA en su plataforma de comercio electrónico para mejorar la funcionalidad y el rendimiento.",
       "image1": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714422956/50_1_z9dpwa.png",
       "alt1": ""
     },
     "nine": {
-      "title": "Customer Insights",
-      "subtitule": "Utilize AI to gain deep insights into customer behavior, preferences, and trends.",
+      "title": "Información del cliente",
+      "subtitule": "utilice IA para obtener información detallada sobre el comportamiento, las preferencias y las tendencias de los clientes.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714484900/22_msepkw.png",
       "alt1": ""
     },
     "ten": {
-      "title": "Personalized Shopping",
-      "subtitule": "Deliver personalized product recommendations and experiences to boost customer satisfaction and loyalty.",
+      "title": "Compras personalizadas",
+      "subtitule": "ofrezca recomendaciones de productos y experiencias personalizadas para aumentar la satisfacción y la fidelidad del cliente.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
       "alt1": ""
     },
     "eleven": {
-      "title": "Trusted by the world's most ambitious teams.",
+      "title": "Con la confianza de los equipos más ambiciosos del mundo.",
       "photos": [
         {
           "id": 1,
@@ -267,8 +267,8 @@
       ]
     },
     "twelve": {
-      "title": "Chatbots and Virtual Assistants",
-      "subtitule": "Implement intelligent chatbots to provide real-time customer support and improve engagement.",
+      "title": "Chatbots y asistentes virtuales",
+      "subtitule": "implemente chatbots inteligentes para brindar atención al cliente en tiempo real y mejorar la participación.",
       "image3": "https://res.cloudinary.com/dijbczjp9/image/upload/v1714501633/7_chusg9.png",
       "alt1": ""
     },
