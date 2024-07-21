@@ -4,31 +4,38 @@
       "navbar": [
         {
           "name": "Producto",
-          "link": "/#product"
+          "link": "/#product",
+          "isExternal": false
         },
         {
           "name": "Equipo",
-          "link": "/#team"
+          "link": "/#team",
+          "isExternal": false
         },
         {
           "name": "Blog",
-          "link": "https://blog.octagoncode.com"
+          "link": "https://blog.octagoncode.com",
+          "isExternal": true
         },
         {
           "name": "Explora",
-          "link": "/#explore"
+          "link": "/#explore",
+          "isExternal": false
         },
         {
           "name": "Plaza",
-          "link": "/#marketplace"
+          "link": "/#marketplace",
+          "isExternal": false
         },
         {
           "name": "Precio",
-          "link": "/#pricing"
+          "link": "/#pricing",
+          "isExternal": false
         },
         {
           "name": "Contacto",
-          "link": "/#contact"
+          "link": "https://blog.octagoncode.com/contacto/",
+          "isExternal": true
         }
       ],
       "logo": "https://res.cloudinary.com/db60chvpz/image/upload/v1717165648/s2plqmmfmq6rfajlfh0c.png",
@@ -282,28 +289,15 @@
       "links": {
         "Company": {
           "name": "",
-          "data": [
-            "",
-            "",
-            "",
-            ""
-          ]
+          "data": ["", "", "", ""]
         },
         "Support": {
           "name": "",
-          "data": [
-            "",
-            "",
-            ""
-          ]
+          "data": ["", "", ""]
         },
         "Contact": {
           "name": "",
-          "data": [
-            "",
-            "Terms of Use & Privacy Policy",
-            ""
-          ]
+          "data": ["", "Terms of Use & Privacy Policy", ""]
         },
         "facebook-icon": "",
         "twitter-icon": "",
