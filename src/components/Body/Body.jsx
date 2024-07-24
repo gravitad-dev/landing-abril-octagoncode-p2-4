@@ -10,15 +10,10 @@ import EightSection from "../Sections/EightSection";
 import NineSection from "../Sections/NineSection";
 import TenSection from "../Sections/TenSection";
 
-
-
-
-
-
 function Body() {
   return (
     <div>
-      <OneSection />
+      {/* <OneSection /> */}
       <TwoSection />
       <ThreeSection />
       <FourSection />
@@ -26,9 +21,10 @@ function Body() {
       <SixSection />
       <SevenSection />
       <EightSection />
+      {/* 
       <NineSection />
-      <TenSection />
-      
+      <TenSection /> 
+      */}
     </div>
   );
 }

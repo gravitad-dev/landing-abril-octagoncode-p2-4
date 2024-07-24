@@ -1,45 +1,47 @@
-import React from 'react';
-import data from '../../data.json';
+import React from "react";
+import data from "../../data.json";
 
 function Hero() {
-  const words = data.sections.one.title.split(' ');
+  const words = data.sections.one.title.split(" ");
 
   return (
-    <div className='relative'>
-      <div className='grid sm:grid-cols-2 gap-2 mt-44'>
-        <div className='flex flex-col justify-center items-start text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold mt-4'>
-          <h2 style={{ lineHeight: '1.2' }}>
+    <div className="relative">
+      <div className="grid sm:grid-cols-2 gap-2 mt-44">
+        <div className="flex flex-col justify-center items-start text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold mt-4">
+          <h1 style={{ lineHeight: "1.2" }}>
             {words.map((word, index) => (
               <span
                 key={index}
                 style={{
-                  color: word === 'expertise' ? '#080808' : 'inherit',
+                  color: word === "expertise" ? "#080808" : "inherit",
                 }}
               >
-                {word}{' '}
+                {word}{" "}
               </span>
             ))}
-          </h2>
-          <p className='text-black text-xl mt-7'>
+          </h1>
+          <p className="text-black text-xl mt-7">
             {data.sections.one.subtitule}
           </p>
           <div>
+            {/*
             <a href='https://blog.octagoncode.com' target='_blank'>
               <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-10 text-xs'>
                 Blog
               </button>
             </a>
+           */}
           </div>
-          <h2 className='text-[#080808] sm:mb-60'></h2>
+          <h2 className="text-[#080808] sm:mb-60"></h2>
           <img
             src={data.sections.one.image}
             alt={data.sections.one.alt}
-            width='100%'
-            height='auto'
-            className='block sm:hidden'
+            width="100%"
+            height="auto"
+            className="block sm:hidden"
           />
         </div>
-        <div className='hidden sm:block mt-0'>
+        <div className="hidden sm:block mt-0">
           <img src={data.sections.one.image} alt={data.sections.one.alt} />
         </div>
       </div>

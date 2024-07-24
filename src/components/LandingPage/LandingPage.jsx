@@ -17,7 +17,9 @@ function LandingPage() {
         <Body />
       </Layout>
       <Footer />
-      <SocialButtons />
+      <div className="flex justify-center items-center bg-black/90">
+        <SocialButtons />
+      </div>
     </div>
   );
 }

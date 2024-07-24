@@ -4,16 +4,17 @@ import data from "../../data.json";
 
 function TwoSection() {
   return (
-    <div id="enterprise" className="relative flex justify-center items-center mt-8 sm:mt-20 px-4 sm:px-0 mb-8">
+    <div
+      id="enterprise"
+      className="relative flex justify-center items-center mt-8 sm:mt-20 px-4 sm:px-0 mb-8"
+    >
       <div
         className="absolute inset-0 z-40 flex justify-center items-center left-4 sm:left-0 right-4 sm:right-0"
         style={{
           background:
             "linear-gradient(180deg, rgba(255, 255, 255, 0) 14.9%, rgba(255, 255, 255, 0) 36.77%, rgba(33, 137, 226, 0.85) 89.57%)",
         }}
-      >
-          
-      </div>
+      ></div>
       <img
         src={data.sections.four.image}
         alt={data.sections.four.alt}

@@ -7,16 +7,7 @@
           "link": "/#product",
           "isExternal": false
         },
-        {
-          "name": "Equipo",
-          "link": "/#team",
-          "isExternal": false
-        },
-        {
-          "name": "Blog",
-          "link": "https://blog.octagoncode.com",
-          "isExternal": true
-        },
+
         {
           "name": "Explora",
           "link": "/#explore",
@@ -28,9 +19,9 @@
           "isExternal": false
         },
         {
-          "name": "Precio",
-          "link": "/#pricing",
-          "isExternal": false
+          "name": "Blog",
+          "link": "https://blog.octagoncode.com",
+          "isExternal": true
         },
         {
           "name": "Contacto",
